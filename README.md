@@ -1,0 +1,1 @@
+An intelligent voice assistant built using Python, NLP, and speech recognition, capable of processing voice commands to perform tasks like web search, setting reminders, opening applications, and more. Customizable and extensible for personal or professional use
